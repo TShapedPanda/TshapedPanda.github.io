@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+TShapedPanda has moved to www.tshapedpanda.com where you can read all about the data science learning journey.
 
 ### More Information
 
